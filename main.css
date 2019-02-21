@@ -1,0 +1,49 @@
+
+.navi
+{float: right;
+  list-style: none;
+    margin-top:30px;}
+
+.navi li
+{ display: inline-block;}
+
+.navi li a
+{color: white;
+  padding: 5px 20px;}
+
+body  {background-image:url("fpp-background.jpg");
+
+         background-size: auto;
+        background-position: center;
+
+        color: white;
+
+          font-size: 24px;}
+
+.rotateimg90
+{-webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg);}
+
+.h1
+{padding: 50px 50px;
+ color: aqua;
+font-family: comic sans ms, cursive, sans serif;}
+
+.identity
+{padding: 50px 50px;}
+
+.identity li
+{padding: 10px 10px;}
+
+.medialink li a
+{color: #0099ff;}
+
+.h2
+{color: aqua;
+font-family: comic sans ms, cursive, sans serif;}
+
+.identity li strong
+{color: aqua;}
